@@ -17,16 +17,16 @@ const User = ({ login, avatar_url, location, followers, following }: UserProps) 
       <div className={classes.stats}>
         <div>
           <p>Seguidores:</p>
-          <p>{followers}</p>
+          <p className={classes.number}>{followers}</p>
         </div>
         <div>
           <p>Seguindo:</p>
-          <p>{following}</p>
+          <p className={classes.number}>{following}</p>
         </div>
       </div>
       <Link to={`/repos/${login}`}>Ver melhores projetos</Link>
     </div>
-  )
+  );
 };
 
 export default User;
