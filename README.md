@@ -8,10 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="movies" src=".github/image.png">
-</p>
-<p align="center">
-  <img alt="movie" src=".github/image2.png">
+  <img alt="githubFinder" src=".github/image.png">
 </p>
 
 ## Github User Finder
@@ -33,7 +30,7 @@ Aula do canal [Matheus Battisti](https://www.youtube.com/watch?v=3sQITRihW_A&t=1
 
 ## 🚀 Como Rodar
 
-- Clone o projeto.
+- Clone o projeto;
 - Rode npm i react-router-dom react-icons (para pacote de rotas e ícones);
 - npm run dev (para rodar o projeto na porta indicada);
 
