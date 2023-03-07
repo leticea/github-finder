@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="githubFinder" src=".github/image.png">
+  <img alt="" src=".github/image.png">
 </p>
 
 ## Github User Finder
@@ -17,14 +17,14 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
 
-Projeto de localizador de usuários com API do Github.
+Projeto para localizar usuários com a API do Github.
 
 Aula do canal [Matheus Battisti](https://www.youtube.com/watch?v=3sQITRihW_A&t=14s)
 
