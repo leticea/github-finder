@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [ReactJS](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
